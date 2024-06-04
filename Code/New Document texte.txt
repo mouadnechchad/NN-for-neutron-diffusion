@@ -1,0 +1,8 @@
+neural_net
+net_uv
+first order
+second order
+equation loss
+regions losses
+prior loss
+boundary_loss
